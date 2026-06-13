@@ -1,1 +1,1 @@
-console.log("Incident Tracker Loaded");
+console.log("Incident Management Tracker Loaded");
