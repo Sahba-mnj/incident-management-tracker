@@ -1,39 +1,39 @@
 # Incident Management Tracker
 
-Support operations dashboard for monitoring incidents, priorities, SLA performance, and ticket status.
+A web-based dashboard designed for Application Support and Incident Management teams to monitor operational performance, track incidents, and measure SLA compliance.
 
-## Features
+## Key Features
 
 - Incident overview dashboard
-- Open and critical incident tracking
-- Monthly resolution metrics
-- Incident table view
-- Responsive layout
+- Priority-based ticket monitoring
+- SLA performance tracking
+- MTTR reporting
+- Monthly incident resolution metrics
+- Responsive user interface
+- Search and filtering capabilities
 
-## Tech Stack
+## Business Use Case
 
-- HTML
-- CSS
+This project simulates real-world incident management processes commonly used in SaaS, ERP, and enterprise application support environments.
+
+Support teams can use the dashboard to:
+
+- Monitor critical incidents
+- Track SLA breaches
+- Measure support performance
+- Improve operational visibility
+
+## Technologies
+
+- HTML5
+- CSS3
 - JavaScript
+- Chart.js
 
-## Use Case
+## Future Enhancements
 
-Designed as a sample dashboard inspired by real-world Application Support and Incident Management workflows used in SaaS and ERP environments.
-
-## Future Improvements
-
-- SLA monitoring
-- Incident filtering
-- Search functionality
+- SQL Server integration
+- REST API integration
+- Authentication
+- Export to Excel
 - Dark mode
-- Data visualization charts
-
-## Author
-
-Sahba Maraghehmiyanji
-
-LinkedIn:
-https://www.linkedin.com/in/sahba-maragheh-miyanji/
-
-GitHub:
-https://github.com/Sahba-mnj
